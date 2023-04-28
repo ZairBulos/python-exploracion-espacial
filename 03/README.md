@@ -20,7 +20,7 @@ En este módulo, obtendrá información sobre algunos conceptos básicos del len
 
 <hr/>
 
-## Ejercicio: [Adición de comentarios en cuadernos de Python para que el código sea más claro](/2-comments.ipynb)
+## Ejercicio: [Adición de comentarios en cuadernos de Python para que el código sea más claro](https://github.com/ZairBulos/python-exploracion-espacial/blob/main/03/2-comments.ipynb)
 
 En el transcurso de este módulo, usaremos comentarios en nuestro código. Aprender a usar los comentarios de manera eficiente mejorará en gran medida la legibilidad de su código y lo ayudará a aprender temas de programación más rápido.
 
@@ -30,13 +30,13 @@ En programación, los comentarios son palabras que la computadora no leerá cuan
 
 <hr/>
 
-## Ejercicio: [Aritmética básica de código en Python para análisis de datos futuros](/3-arithmetic.ipynb)
+## Ejercicio: [Aritmética básica de código en Python para análisis de datos futuros](https://github.com/ZairBulos/python-exploracion-espacial/blob/main/03/3-arithmetic.ipynb)
 
 Las matemáticas se utilizan con frecuencia en informática. Los conceptos que aprenderá en este módulo serán excelentes herramientas para agregar a su arsenal de codificación. Python tiene características que te permiten hacer muchos cálculos matemáticos diferentes.
 
 <hr/>
 
-## Ejercicio: [Creación de variables en cuadernos de Python para próximos análisis de datos](/4-variables.ipynb)
+## Ejercicio: [Creación de variables en cuadernos de Python para próximos análisis de datos](https://github.com/ZairBulos/python-exploracion-espacial/blob/main/03/4-variables.ipynb)
 
 En esta unidad, aprenderá acerca de las variables en Python. Las variables son contenedores en los que puede almacenar datos y utilizarlos en un momento diferente.
 
@@ -49,13 +49,13 @@ Hay cuatro tipos principales de variables de datos que encontrará a lo largo de
 
 <hr/>
 
-## Ejercicio: [Creación y manipulación de texto en código Python](/5-strings.ipynb)
+## Ejercicio: [Creación y manipulación de texto en código Python](https://github.com/ZairBulos/python-exploracion-espacial/blob/main/03/5-strings.ipynb)
 
 Las cadenas son una de las variables más inusuales porque pueden tomar casi cualquier tecla de su teclado. Python también tiene mucho código prefabricado (llamado funciones) que puede llamar para manipular sus cadenas de varias maneras.
 
 <hr/>
 
-## Ejercicio: [Creación de listas de datos en código Python](/6-lists.ipynb)
+## Ejercicio: [Creación de listas de datos en código Python](https://github.com/ZairBulos/python-exploracion-espacial/blob/main/03/6-lists.ipynb)
 
 Las listas son formas de almacenar una gran cantidad de datos en Python y son similares a las variables. Son una colección de valores almacenados en forma de lista. Las listas son útiles en Python porque a menudo necesitará más de un dato.
 
@@ -63,7 +63,7 @@ Las listas juegan un papel muy importante en la ciencia de datos porque el objet
 
 <hr/>
 
-## Ejercicio: [Consulta de resultados de las variables y expresiones en cuadernos de Python](/7-output.ipynb)
+## Ejercicio: [Consulta de resultados de las variables y expresiones en cuadernos de Python](https://github.com/ZairBulos/python-exploracion-espacial/blob/main/03/7-output.ipynb)
 
 Ahora que hemos creado algunas variables y les hemos dado valores, podemos aprender a ver los valores más allá de ejecutar una celda de cuaderno. Usaremos una función llamada `print()`.
 
