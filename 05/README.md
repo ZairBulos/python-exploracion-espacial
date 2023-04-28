@@ -31,6 +31,8 @@ En este módulo va a compilar un cuaderno sencillo con Python para completar la 
 
 ## Ejercicio: [Creación de una función para contar tipos de rocas lunares encontradas](https://github.com/ZairBulos/python-exploracion-espacial/blob/main/05/4-write-function.ipynb)
 
+<hr/>
+
 ## Ejercicio: [Recuento del número de rocas lunares mediante una llamada a una función de Python](https://github.com/ZairBulos/python-exploracion-espacial/blob/main/05/5-add-call-to-function.ipynb)
 
 <hr/>
