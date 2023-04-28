@@ -20,7 +20,7 @@ En este módulo, obtendrá información sobre algunos conceptos intermedios del 
 
 <hr/>
 
-## Ejercicio: [Comparación de valores de datos con código de Python](/2-conditions.ipynb)
+## Ejercicio: [Comparación de valores de datos con código de Python](https://github.com/ZairBulos/python-exploracion-espacial/blob/main/04/2-conditions.ipynb)
 
 En el mundo real, a veces solo realizamos una acción si se cumple una determinada condición. Esta es la idea detrás de los condicionales en la codificación. Por ejemplo, podemos querer lanzar un cohete solo si la temperatura está por encima de los 32 grados Fahrenheit.
 
@@ -43,7 +43,7 @@ Estos son algunos operadores lógicos comunes:
 
 <hr/>
 
-## Ejercicio: [Control del flujo de código mediante instrucciones condicionales](/3-if-statements.ipynb)
+## Ejercicio: [Control del flujo de código mediante instrucciones condicionales](https://github.com/ZairBulos/python-exploracion-espacial/blob/main/04/3-if-statements.ipynb)
 
 Usamos declaraciones condicionales para decirle a la computadora qué hacer si alguna condición se cumple o no: haz esto; si no, haz otra cosa.
 
@@ -68,7 +68,7 @@ La sentencia `elif` es simplemente otra sentencia `if`. Cuando no se cumplen las
 
 <hr/>
 
-## Ejercicio: [Repetición de código con los bucles while y for](/4-iterations.ipynb)
+## Ejercicio: [Repetición de código con los bucles while y for](https://github.com/ZairBulos/python-exploracion-espacial/blob/main/04/4-iterations.ipynb)
 
 Las iteraciones, en la programación, permiten que los codificadores repitan un conjunto de instrucciones hasta que se cumpla una condición. Piensa en esto como si estuvieras atrapado en un bucle que continuará hasta que algo te diga que salgas.
 
@@ -84,7 +84,7 @@ Los bucles `For` esencialmente realizan la misma tarea que los bucles `while`: t
 
 <hr/>
 
-## Ejercicio: [Código de fragmento en funciones para facilitar la reusabilidad y la legibilidad](/5-functions.ipynb)
+## Ejercicio: [Código de fragmento en funciones para facilitar la reusabilidad y la legibilidad](https://github.com/ZairBulos/python-exploracion-espacial/blob/main/04/5-functions.ipynb)
 
 Podemos usar funciones para hacer que nuestro código sea más fácil de leer y de reutilizar. Por ejemplo, si escribiera un código para contar la cantidad de rocas de basalto, probablemente sería casi idéntico al código necesario para contar las rocas de las tierras altas. En lugar de hacer una declaración if para verificar el tipo de cada roca espacial, podemos escribir una función para las rocas espaciales y puede ejecutar el mismo código para verificar qué tipo de roca es cada vez.
 
@@ -92,7 +92,7 @@ Podemos usar funciones para hacer que nuestro código sea más fácil de leer y 
 
 <hr/>
 
-## Ejercicio: [Importación de datos a partir de archivos de texto con Python](/6-read-text-file.ipynb)
+## Ejercicio: [Importación de datos a partir de archivos de texto con Python](https://github.com/ZairBulos/python-exploracion-espacial/blob/main/04/6-read-text-file.ipynb)
 
 En muchas aplicaciones de Python, deberá usar datos de una fuente externa, como:
 
@@ -103,6 +103,6 @@ En esta unidad, aprenderemos a leer y escribir datos de un archivo de texto usan
 
 <hr/>
 
-## Ejercicio: [Uso de parámetros para especificar la variabilidad en las funciones](/7-parameters.ipynb)
+## Ejercicio: [Uso de parámetros para especificar la variabilidad en las funciones](https://github.com/ZairBulos/python-exploracion-espacial/blob/main/04/7-parameters.ipynb)
 
 Otro aspecto interesante de las funciones es que las variables creadas dentro de ellas solo existen dentro de la función.
