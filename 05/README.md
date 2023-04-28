@@ -21,18 +21,18 @@ En este módulo va a compilar un cuaderno sencillo con Python para completar la 
 
 <hr/>
 
-## Ejercicio: [Creación de una instancia de Jupyter Notebook para examinar datos sobre rocas lunares](/2-set-up-program.ipynb)
+## Ejercicio: [Creación de una instancia de Jupyter Notebook para examinar datos sobre rocas lunares](https://github.com/ZairBulos/python-exploracion-espacial/blob/main/05/2-set-up-program.ipynb)
 
 <hr/>
 
-## Ejercicio: [Lectura de datos de rocas lunares desde un archivo de texto para su examen](/3-read-text-file.ipynb)
+## Ejercicio: [Lectura de datos de rocas lunares desde un archivo de texto para su examen](https://github.com/ZairBulos/python-exploracion-espacial/blob/main/05/3-read-text-file.ipynb)
 
 <hr/>
 
-## Ejercicio: [Creación de una función para contar tipos de rocas lunares encontradas](/4-write-function.ipynb)
+## Ejercicio: [Creación de una función para contar tipos de rocas lunares encontradas](https://github.com/ZairBulos/python-exploracion-espacial/blob/main/05/4-write-function.ipynb)
 
-## Ejercicio: [Recuento del número de rocas lunares mediante una llamada a una función de Python](/5-add-call-to-function.ipynb)
+## Ejercicio: [Recuento del número de rocas lunares mediante una llamada a una función de Python](https://github.com/ZairBulos/python-exploracion-espacial/blob/main/05/5-add-call-to-function.ipynb)
 
 <hr/>
 
-## Ejercicio: [Análisis y resumen de datos en Python](/6-output-and-summarize-data.ipynb)
+## Ejercicio: [Análisis y resumen de datos en Python](https://github.com/ZairBulos/python-exploracion-espacial/blob/main/05/6-output-and-summarize-data.ipynb)
